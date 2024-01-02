@@ -1,0 +1,101 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.0",
+        "UnityVersion": "2021.3.19f1c1",
+        "BuildDate": "2024/1/1 18:03:35",
+        "BuildSeconds": 0,
+        "BuildTarget": 19,
+        "BuildMode": 1,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "6",
+        "UniqueBundleName": false,
+        "EnableAddressable": false,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": true,
+        "AutoCollectShaders": true,
+        "EncryptionClassName": "YooAsset.Editor.EncryptionNone",
+        "FileNameStyle": 2,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 3,
+        "MainAssetTotalCount": 3,
+        "AllBundleTotalCount": 3,
+        "AllBundleTotalSize": 30925,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundle/Prefab/GameObject.prefab",
+            "AssetGUID": "56b9e670cc96a684d967e680ccc003c0",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundle_prefab.bundle",
+            "MainBundleSize": 1708,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundle/Prefab/other/test.prefab",
+            "AssetGUID": "e2fa5e4637c38d540abf23fbd4d255ba",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundle_prefab_other.bundle",
+            "MainBundleSize": 1697,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundle/Shader/MyShaderVariants.shadervariants",
+            "AssetGUID": "ce71e184047a1e74ba8036e913ea7f45",
+            "AssetTags": [],
+            "MainBundleName": "unityshaders.bundle",
+            "MainBundleSize": 27520,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_bundle_prefab.bundle",
+            "FileName": "assets_bundle_prefab_4584e350e8fe6330808931fee7d8559b.bundle",
+            "FileHash": "4584e350e8fe6330808931fee7d8559b",
+            "FileCRC": "5fe4f042",
+            "FileSize": 1708,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Bundle/Prefab/GameObject.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundle_prefab_other.bundle",
+            "FileName": "assets_bundle_prefab_other_cfe001c250af3cd9d341eec8a6b3c862.bundle",
+            "FileHash": "cfe001c250af3cd9d341eec8a6b3c862",
+            "FileCRC": "e26e4b84",
+            "FileSize": 1697,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Bundle/Prefab/other/test.prefab"
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileName": "unityshaders_4f555468e80f1816f0c188c616618d06.bundle",
+            "FileHash": "4f555468e80f1816f0c188c616618d06",
+            "FileCRC": "b9c64497",
+            "FileSize": 27520,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Bundle/Shader/MyShaderVariants.shadervariants"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
