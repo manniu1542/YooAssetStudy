@@ -1,0 +1,65 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "Simulate",
+    "AssetList": [
+        {
+            "Address": "GameObject",
+            "AssetPath": "Assets/Bundle/Prefab/GameObject.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "test",
+            "AssetPath": "Assets/Bundle/Prefab/other/test.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "MyShaderVariants",
+            "AssetPath": "Assets/Bundle/Shader/MyShaderVariants.shadervariants",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_bundle_prefab.bundle",
+            "UnityCRC": 0,
+            "FileHash": "808556aeff7e64656087e60e1d091b94",
+            "FileCRC": "00000000",
+            "FileSize": 901,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_bundle_prefab_other.bundle",
+            "UnityCRC": 0,
+            "FileHash": "b82f2496187571aa43d9f8009a161c03",
+            "FileCRC": "00000000",
+            "FileSize": 895,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 0,
+            "FileHash": "e71f920e98b3ea86127290978a74b025",
+            "FileCRC": "00000000",
+            "FileSize": 1686,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}
