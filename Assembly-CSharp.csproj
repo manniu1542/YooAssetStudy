@@ -57,9 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\TestYoo.cs" />
-    <Compile Include="Assets\Samples\YooAsset\2.1.0\Extension Sample\Scripts\Runtime\GameObjectAssetReference.cs" />
-    <Compile Include="Assets\Samples\YooAsset\2.1.0\Extension Sample\Scripts\Runtime\AssetOperationHandleExtension.cs" />
-    <Compile Include="Assets\Samples\YooAsset\2.1.0\Extension Sample\Scripts\Runtime\LoadAssetsByTagOperation.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

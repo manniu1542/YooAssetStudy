@@ -2,3 +2,6 @@ Library/
 Logs/
 obj/
 UserSettings/
+.vs/
+Bundles/
+Temp/
